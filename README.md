@@ -16,6 +16,9 @@ Customizable Settings: Users can customize the sensitivity of the facial express
 
 # Prerequisites
 Python 3.x
+
 OpenCV
+
 TensorFlow or PyTorch (choose the preferred deep learning framework)
+
 Spotify API credentials (or credentials for your preferred music platform)
