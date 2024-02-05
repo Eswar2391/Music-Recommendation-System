@@ -22,3 +22,21 @@ OpenCV
 TensorFlow or PyTorch (choose the preferred deep learning framework)
 
 Spotify API credentials (or credentials for your preferred music platform)
+
+# Contributing
+If you'd like to contribute to the project, please follow the contribution guidelines.
+
+# License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+# Acknowledgments
+Thanks to the creators of the facial expression recognition model used in this project.
+Special appreciation to the contributors and the open-source community.
+Feel free to reach out for any questions or feedback!
+
+# Happy listening! 🎶
+
+
+
+
+
